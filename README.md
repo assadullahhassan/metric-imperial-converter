@@ -34,7 +34,7 @@ Since this is a static web project, you only need a modern web browser (Chrome, 
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/assadullahhassan/metric-imperial-converter.git](https://github.com/assadullahhassan/metric-imperial-converter.git)
+   git clone https://github.com/assadullahhassan/metric-imperial-converter.git
 
 2. **Navigate to the directory:**
     cd metric-imperial-converter
