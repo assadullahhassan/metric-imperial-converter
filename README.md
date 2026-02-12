@@ -5,7 +5,7 @@ A sleek, web application designed to provide instant conversions between Metric 
 ## 🖼️ Demo
 ![Project Screenshot](https://drive.google.com/drive/folders/14gvLDy8_ahlGKguSEa4mvlBoYcty2mei?usp=sharing)
 
-[Project link demo](https://assadullahhassan.github.io/password-generator/)
+[Project link demo](https://assadullahhassan.github.io/metric-imperial-converter/)
 
 
 ## 🚀 Features
