@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    text-align: center;
+    background: whitesmoke;
+}
+
+#container {
+    width: 500px;
+    display: block;
+    margin: 10px auto;
+}
+
+h2 {
+    color: white;
+    font-family: "SN Pro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
+#header {
+    height: 250px;
+    background-color: #6943FF;
+    padding: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#body {
+    background-color: #1F2937;
+    padding: 20px;
+}
+
+.card {
+    background-color: #273549;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 20px;
+}
+
+.card h3 {
+    color: #CCC1FF;
+    font-family: "SN Pro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.card p {
+    color: white;
+    font-size: 14px;
+    font-family: "SN Pro", sans-serif;
+    font-optical-sizing: auto;
+    font-style: italic;
+}
+
+input {
+    height: 80px;
+    /* width: 90px; */
+    min-width: 90px;
+    max-width: 450px;
+    border-radius: 5px;
+    border: 2px solid whitesmoke;
+    background: transparent;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    font-weight: bold;
+    box-sizing: border-box;
+    field-sizing: content;
+
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+
+#btn {
+    margin-top: 30px;
+    /* width: 90px; */
+    padding: 10px 20px;
+    border-radius: 4px;
+    border: none;
+}
