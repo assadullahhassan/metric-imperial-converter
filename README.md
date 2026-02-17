@@ -50,5 +50,5 @@ Since this is a static web project, you only need a modern web browser (Chrome, 
 ## 📝 License
 This project is open-source and available under the MIT License.
 
-Made from Scrimba
+Made from Scrimba by Assadullah Hassan
 
